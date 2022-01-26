@@ -5,7 +5,7 @@ const html_to_insert = `<div class='contact-page'>
                         </div>`;
 
 function Contact() {
-document.querySelector('.content').insertAdjacentHTML('beforeend', html_to_insert);
+    document.querySelector('.content').insertAdjacentHTML('beforeend', html_to_insert);
 }
 
 export default Contact;

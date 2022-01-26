@@ -24,5 +24,5 @@ function deleteDOM () {
     content.removeChild(content.lastElementChild);
 }
 
-console.log("hello");
 
+console.log('live reload')
