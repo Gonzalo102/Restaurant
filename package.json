@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Gonzalo102/Restaurant/issues"
   },
-  "homepage": "https://github.com/Gonzalo102/Restaurant#readme",
+  "homepage": "https://github.com/Gonzalo102/Restaurant/",
   "devDependencies": {
     "css-loader": "^6.2.0",
     "style-loader": "^3.2.1",
