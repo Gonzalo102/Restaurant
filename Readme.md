@@ -1,4 +1,4 @@
-Library created using Object Constructor. In the other branch I replaced Object Constructor with Classes.
+Restaurant Page created using Webpack.
 
 [Live Demo](https://gonzalo102.github.io/Restaurant/) :point_left:
 
