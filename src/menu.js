@@ -5,7 +5,6 @@ import Cuadrada from './cuadrada.jpeg';
 
 const html_to_insert = `<div class='menu-page'>
                             <center>
-                                <h1> Menu </h1>
                                 <div class='pizzas'>
                                     <div class='italiana'>
                                         <h3>La italiana</h3>
@@ -25,7 +24,7 @@ const html_to_insert = `<div class='menu-page'>
 
 function Menu() {
     document.querySelector('.content').insertAdjacentHTML('beforeend', html_to_insert);
-    
+
     const menu = document.querySelector('.menu-page');
     const LaItaliana = document.querySelector('.italiana');
     const Casa = document.querySelector('.casa');
