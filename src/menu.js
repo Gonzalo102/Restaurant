@@ -1,6 +1,6 @@
-import Italiana from './italiana.jpeg';
-import DelaCasa from './delacasa.jpeg';
-import Cuadrada from './cuadrada.jpeg';
+import Italiana from '../dist/images/italiana.jpeg';
+import DelaCasa from '../dist/images/delacasa.jpeg';
+import Cuadrada from '../dist/images/cuadrada.jpeg';
 
 
 const html_to_insert = `<div class='menu-page'>

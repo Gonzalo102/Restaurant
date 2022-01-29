@@ -1,4 +1,4 @@
-import './style.css';
+import '../dist/style.css'
 import loadPage from "./loading";
 import Home from "./home";
 import Menu from "./menu";
@@ -24,5 +24,3 @@ function deleteDOM () {
     content.removeChild(content.lastElementChild);
 }
 
-
-console.log('live reload')

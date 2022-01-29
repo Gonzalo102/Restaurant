@@ -1,4 +1,4 @@
-import Masterchef from './masterchef.jpg'
+import Masterchef from '../dist/images/masterchef.jpg'
 
 const html_to_insert = `<div class='home-page'>
                             <h1> Pertutti best restaruant in town </h1>
